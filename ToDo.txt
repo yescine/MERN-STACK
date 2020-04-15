@@ -1,0 +1,7 @@
+Create Exercices component
+Exercices List
+   create table to show List
+   add edit/delete
+Edit Exercices
+Fix styling of form
+implement material-UI table
